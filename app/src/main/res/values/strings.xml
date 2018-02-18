@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Navigation_draw</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Heading_exp4">Toggle the LED every Second using Timer Interrupt</string>
+    <string name="intro_exp4">This is the Introduction, Scrollable </string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="exp_name">Experiment name</string>
+    <string-array name="exp_names">
+        <item>Introduction</item>
+        <item>Schematic</item>
+        <item>Code</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508079094376",
+    "firebase_url": "https://avrproject-d30e5.firebaseio.com",
+    "project_id": "avrproject-d30e5",
+    "storage_bucket": "avrproject-d30e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508079094376:android:75d9dfeaa5d860db",
+        "android_client_info": {
+          "package_name": "com.example.croma.navigation_draw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508079094376-03rlf6entoidp2btue14i21n75ifpb8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.croma.navigation_draw",
+            "certificate_hash": "5d4b40068938ea4b3088ac4f87272bf92ac7f279"
+          }
+        },
+        {
+          "client_id": "508079094376-rc8pm6c6pk3haqrt3egu9jsklvophuli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhrTRVs69TUPcnSfpY_k9NVheg5MsEws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508079094376-rc8pm6c6pk3haqrt3egu9jsklvophuli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
